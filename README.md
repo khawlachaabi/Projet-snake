@@ -59,7 +59,7 @@ gcc main.c -o snakegame -lraylib -lopengl32 -lgdi32 -lwinmm
 ## 📸 Captures d'écran
 
 ### 🏠 Écran d'accueil
-![Accueil](Capture/accueil.png)
+![Accueil](Capture/acceuil.png)
 
 ### ingame
 ![ingame interface](Capture/ingame.png)
@@ -68,6 +68,7 @@ gcc main.c -o snakegame -lraylib -lopengl32 -lgdi32 -lwinmm
 
 - **Nom** : Khawla Chaabi  
 - **GitHub** : https://github.com/khawlachaabi
+
 
 
 
