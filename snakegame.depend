@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745487133 source:c:\users\khawl\onedrive\bureau\algo s2\snakegame\main.c
+	"raylib.h"
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+
