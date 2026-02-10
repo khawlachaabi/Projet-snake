@@ -56,9 +56,17 @@ gcc main.c -o snakegame -lraylib -lopengl32 -lgdi32 -lwinmm
   - En jeu : retour au menu
   - Aide / Game Over : retour au menu
 - **Espace** : rejouer depuis l'écran Game Over
+## 📸 Captures d'écran
+
+### 🏠 Écran d'accueil
+![Accueil](Capture/accueil.png)
+
+### ingame
+![ingame interface](Capture/ingame.png)
 
 ## 👤 Auteur
 
 - **Nom** : Khawla Chaabi  
 - **GitHub** : https://github.com/khawlachaabi
+
 
